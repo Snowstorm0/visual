@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="xulong@172.20.0.9:22">
+    <serverData>
+      <paths name="xulong@172.20.0.9:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/xulong/snowstorm/visual_pytorch" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
